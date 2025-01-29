@@ -1,26 +1,25 @@
-# Netflix-CloneNetflix Clone
+# Amazon Clone
 
-A frontend clone of Netflix built using HTML and CSS. This project focuses on replicating the design and layout of Netflix's homepage.
+This is a simple Amazon clone built using only **HTML** and **CSS**. The project replicates the basic UI of Amazon, including the navbar, product sections, and footer.
 
-* Features 
-- Responsive design for various screen sizes.
-- Attractive user interface mimicking Netflix.
-- Static elements styled with CSS.
+## Features
+- Well-structured product display layout.
+- Aesthetic styling using pure CSS.
+- Footer section with essential links.
 
-* Technologies Used 
-- HTML5: For creating the structure of the webpage.
-- CSS3: For styling and layout.
+## Technologies Used
+- **HTML5** for structuring the webpage.
+- **CSS3** for styling and layout.
 
-* How to Run Locally 
-1. Clone the repository:
-git clone https://github.com/<your-username>/netflix-clone.git 
+## How to Run the Project
+1. Download or clone the repository.
+2. Open the \`index.html\` file in a web browser.
 
-2. Navigate to the project folder:
-cd netflix-clone 
 
-3. Open index.html in your browser.
+## Future Enhancements
+- Implementing a product detail page.
+- Enhancing responsiveness for all screen sizes.
 
-* Future Enhancements 
-- Add interactivity with JavaScript.
-- Integrate a backend to fetch data dynamically.
-- Add user authentication and database support.
+## Credits
+- Inspired by the official Amazon website UI.
+
